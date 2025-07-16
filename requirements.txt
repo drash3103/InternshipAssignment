@@ -1,0 +1,4 @@
+praw
+spacy
+transformers
+torch
